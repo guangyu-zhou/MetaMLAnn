@@ -2,7 +2,7 @@
 This repository includes the code of MetaMLAnn (see paper).
 
 ## File discription:
-==================
+
 0. MetaMLAnn folder contains the core code for our model. 
 
 1. naive_model.py: Evaluate baseline models. It will print out the result for 4 baseline models under K fold. you can change it. 
@@ -16,5 +16,4 @@ parameters:
 
 4. vectorize.py: exploration function for species distribuion similarity v.s. distance. Generate the matrix. Similar as part of function in the gen_data.py. 
 
-==================
 ## Reference
