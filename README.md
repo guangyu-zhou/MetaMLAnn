@@ -1,4 +1,4 @@
-# metaSUB
+# MetaMLAnn
 This repository includes the code of MetaMLAnn (see paper).
 
 ## File discription:
